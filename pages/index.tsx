@@ -5,7 +5,7 @@ function Home() {
   return (
     <Page className="flex flex-col gap-12">
       <section className="flex flex-col gap-6">
-        <Text variant="h1">WTFI CHAD GPT-5</Text>
+        <Text variant="h1">WTF-I CHAD GPT-5</Text>
         <Text className="text-zinc-600">
           WTF LETS GO!
         </Text>
